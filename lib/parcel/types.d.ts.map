@@ -1,0 +1,1 @@
+{"mappings":"AAUA,iBAAiB;ACDjB,iBAAiB","sources":["src/src/a.ts","src/src/b.ts","src/src/index.ts","src/index.ts"],"sourcesContent":[null,null,null,"import A from \"./a\";\nimport B from \"./b\";\nexport {A, B}"],"names":[],"version":3,"file":"types.d.ts.map"}
